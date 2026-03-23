@@ -1,8 +1,8 @@
-# rikuto_mania
-My github profile
+<h1>👋 Hi, I'm rikuto_mania</h1>
+<p>興味のある分野：フロントエンドエンジニア</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind&theme=dark)](https://skillicons.dev)
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=rikuto-mania)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rikuto-mania)
+<h2>Skills<h2>
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,figma&theme=dark)](https://skillicons.dev)
 
+<h2>Learning</h2>h2>
+[![My Skills](https://skillicons.dev/icons?i=docker,go,nodejs&theme=dark)](https://skillicons.dev)
