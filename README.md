@@ -4,5 +4,5 @@
 <img src="https://skillicons.dev/icons?i=bun,ts,react,nextjs,vue,nuxtjs,tailwind,astro,figma,docker&theme=dark">
 
 <h2>✏️ Learning</h2>
-<img src="https://skillicons.dev/icons?i=go,threejs&theme=dark">
+<img src="https://skillicons.dev/icons?i=go,threejs,swift&theme=dark">
 
